@@ -1,0 +1,7 @@
+content	habul jar:chrome/habul.jar!/content/
+locale	habul	en-US	jar:chrome/habul.jar!/locale/en-US/
+locale	habul	it-IT	jar:chrome/habul.jar!/locale/it-IT/
+skin	habul	classic/1.0	jar:chrome/habul.jar!/skin/
+
+overlay	chrome://messenger/content/messenger.xul	chrome://habul/content/messenger.xul
+style	chrome://global/content/customizeToolbar.xul	chrome://habul/skin/habul.css

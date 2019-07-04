@@ -1,0 +1,69 @@
+HabuL v1.21.0 by legolas558
+* re-publish after Mozilla unbpulished the add-on
+* fix typo in translations
+* update supported versions
+
+HabuL v1.20.0 by legolas558
+* restore codebase from v1.14.0 + knujon fixes + send check fixes
+
+HabuL v1.19.0 by legolas558
+* disabled prompt for reporting selected messages
+* added correct default non-registered KnuJon user id
+
+HabuL v1.18.0 by legolas558
+* changed email report domain from coldrain.us to knujon.net
+* started again tagging of releases
+
+HabuL v1.15.0 by legolas558
+* fixed bug that would delete/move junk emails even in case of send failure
+* mark all messages as read before moving to trash (FR#6)
+
+HabuL v1.14.0 by legolas558
+* using new paper-and-flame icon
+
+HabuL v1.13.0 by legolas558
+* use setTimer with function object
+
+HabuL v1.12.0 by legolas558
+* support multiple 'Report' actions (on same folder)
+* pick maximum 100 junk emails per time (configurable with habul.maxJunkToPick option)
+
+HabuL v1.11.0 by legolas558
+* minor fix for compatibility, thanks to Ythan
+
+HabuL v1.10.0 by legolas558
+* minor fix for compatibility
+
+HabuL v1.8.9 by legolas558
+* delete only messages which were attached
+* clear selection only when necessary
+* do not delete spam messages if report email was not sent
+* other minor optimizations
+
+HabuL v1.8.8 by legolas558
+* fixed bug of invalid recipient "undefined" (reported by E.J.Lerner and Jorgo)
+
+HabuL v1.8.7.7 by legolas558
+* fixed bug which swapped delete/move to trash options (reported by C.Gerber)
+
+HabuL v1.8.7.6 by legolas558
+* removed sec.gov reporting (http://sec.gov/complaint.shtml)
+
+HabuL v1.8.7.5 by legolas558
+* fixed bug happening when delete-to-trash was selected (spam was not deleted at all)
+
+HabuL v1.8.7.4 by legolas558
+* added icon & removed unused button2.gif
+* further code beautification
+* some bugfixes
+
+HabuL v1.8.7.3 by legolas558
+* beautified code
+* moved all code/variables to namespace as suggested by reviewer
+
+HabuL v1.8.7.2 by legolas558
+* fixed title of reports to correctly spell HabuL
+
+HabuL v1.8.7.0 by legolas558
+* fixed errors happening on Thunderbird 3.6.x
+* added it-IT localization

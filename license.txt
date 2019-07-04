@@ -1,0 +1,18 @@
+Version: MPL 1.1
+
+The contents of this file are subject to the Mozilla Public License Version 
+1.1 (the "License"); you may not use this file except in compliance with 
+the License. You may obtain a copy of the License at 
+http://www.mozilla.org/MPL/
+
+Software distributed under the License is distributed on an "AS IS" basis,
+WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+for the specific language governing rights and limitations under the
+License.
+
+This License does not grant any rights to use any trademarks, logos
+or graphics of Blue Security, including, but not limited to, the
+"Do Not Intrude Registry", the "Blue Frog" images and the "Blue
+Security" logo (collectively referred to as the "Unlicensed
+Trademarks and Graphics"), even if the Unlicensed Trademarks and
+Graphics are included in the Original Code or Modifications.

@@ -1,0 +1,20 @@
+= General Information
+HabuL is an improved fork of Habu, original addon by Will Harris.
+
+The addon is lightweight and has a single basic feature, that is
+to select all junk mail in the current folder and send it to
+specified recipients.
+
+= Setup
+
+Select Tools -> Addons and configure HabuL preferences. You can turn on/off
+options related to various spam reporting services.
+
+= Usage
+
+Add the "Report" button to your toolbar and click it to send a spam report
+containing all emails marked as "junk" which are present in the current
+directory.
+
+Please note that after successful sending all junk emails in the current
+directory will be deleted, moved to trash or left untouched.

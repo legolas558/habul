@@ -1,0 +1,23 @@
+.okopipiButtons {
+  -moz-image-region: rect(0px 24px 24px 0px);
+}
+.okopipiButtons:hover {
+  -moz-image-region: rect(24px 24px 48px 0px);
+}
+.okopipiButtons[disabled] {
+  -moz-image-region: rect(48px 24px 72px 0px);
+}
+
+toolbar[iconsize="small"] .okopipiButtons {
+  -moz-image-region: rect(0px 16px 16px 0px);
+}
+toolbar[iconsize="small"] .okopipiButtons:hover {
+  -moz-image-region: rect(16px 16px 32px 0px);
+}
+toolbar[iconsize="small"] .okopipiButtons[disabled] {
+  -moz-image-region: rect(32px 16px 48px 0px);
+}
+
+/* Report Junk */
+#bReportJunk{ list-style-image: url("chrome://habul/skin/reportspam-large.png"); }
+toolbar[iconsize="small"] #bReportJunk{ list-style-image: url("chrome://habul/skin/reportspam-small.png"); }

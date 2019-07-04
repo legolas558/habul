@@ -1,0 +1,60 @@
+<!ENTITY habul.IdPrompt "Enter your SpamCop ID.\nYou can later change it by going to 'Tools' -> 'Extensions' window.\nThere select 'HabuL' from the list and click 'Options'">
+<!ENTITY habul.cIdPrompt "Enter your custom address to report spam to.\nThis needs to be in full address format i.e. spam@uce.gov\n\nYou can later change it by going to 'Tools' -> 'Extensions' window.\nThere select 'HabuL' from the list and click 'Options'">
+<!ENTITY habul.MMPrompt "Enter the maximum number of messages to send in each report">
+<!ENTITY habul.acmaIdPrompt "Enter your ACMA ID. If you are submitting as anonymous enter anonymous">
+<!ENTITY habul.knujonuserIdPrompt "Enter your KnujOn ID.">
+<!ENTITY habul.NoJunk "No messages are marked as junk in the current folder.\n\nYou can mark messages as junk from the context menu,\nor by clicking on the junk status column in the messages list pane.">
+<!ENTITY habul.MessageBody "#1 message(s) that were marked as unsolicited commercial e-mail(SPAM) are attached to this message.\n\n">
+<!ENTITY habul.reportbutton.label "Report">
+<!ENTITY habul.reportbutton.tooltiptext "Report messages marked as junk in current folder">
+<!ENTITY habul.options.scidtooltip "Your SpamCop ID">
+<!ENTITY habul.options.quickspamcop "Enable Quick SpamCop">
+<!ENTITY habul.options.quickspamcoptooltip "Check to enable quick reporting to Spamcop">
+<!ENTITY habul.options.idLabel "Your SpamCop ID:">
+<!ENTITY habul.options.cidLabel "Custom report(s) address:">
+<!ENTITY habul.options.okcustidtooltip "Enter your personal addresses to report spam to">
+<!ENTITY habul.options.ftcreportstooltip "Check to enable FTC reporting">
+<!ENTITY habul.options.fdareportstooltip "Report e-mail that involves possibly fraudulent claims about medical devices or products">
+<!ENTITY habul.options.ftcreports "Enable FTC Reporting">
+<!ENTITY habul.options.fdareports "Enable FDA Reporting">
+<!ENTITY habul.options.knujonreports "Enable KnujOn.com Reporting">
+<!ENTITY habul.options.okspamcop "Enable SpamCop Reporting">
+<!ENTITY habul.options.aureports "Enable Australian Reporting">
+<!ENTITY habul.options.usareports "Enable USA Reporting">
+<!ENTITY habul.options.aureportstooltip "Check to enable Australian Reporting features">
+<!ENTITY habul.options.usareportstooltip "Check to enable USA Reporting features">
+<!ENTITY habul.options.acareports "Australian spam reporting">
+<!ENTITY habul.options.acmaidLabel "Enter your ACMA ID:">
+<!ENTITY habul.options.acmaidtooltip "Enter your ACMA ID that was in your e-mail or anonymous for anonymous reporting">
+<!ENTITY habul.options.acareportstooltip "Report spam sent to an Australian from anywhere">
+<!ENTITY habul.options.actionLabel "After reporting junk mail:">
+<!ENTITY habul.options.actionLeave "Leave it">
+<!ENTITY habul.options.actionDelete "Delete it">
+<!ENTITY habul.options.actionTrash "Move it to Trash">
+<!ENTITY habul.options.basictab.label "Basic Settings">
+<!ENTITY habul.options.basictab.tooltip "Basic configuration options">
+<!ENTITY habul.options.sctab.label "SpamCop Settings">
+<!ENTITY habul.options.sctab.tooltip "SpamCop configuration options">
+<!ENTITY habul.options.ustab.label "US Reporting">
+<!ENTITY habul.options.ustab.tooltip "Spam reporting options for US residents">
+<!ENTITY habul.options.uktab.label "UK Reporting">
+<!ENTITY habul.options.uktab.tooltip "Spam reporting options for UK residents">
+<!ENTITY habul.options.autab.label "AU Reporting">
+<!ENTITY habul.options.autab.tooltip "Spam reporting options for Australian residents">
+<!ENTITY habul.options.catab.label "CA Reporting">
+<!ENTITY habul.options.catab.tooltip "Spam reporting options for Canadian residents">
+<!ENTITY habul.options.inttab.label "Interpol">
+<!ENTITY habul.options.inttab.tooltip "Spam reporting options to Interpol">
+<!ENTITY habul.options.knujontab.label "KnujOn Reporting">
+<!ENTITY habul.options.knujonreportstooltip "Enable reporting to KnujOn.com">
+<!ENTITY habul.options.knujonuseridtooltip "Enter the ID KnujOn has given you to report spam to">
+<!ENTITY habul.options.knujonuseridLabel "Enter your KnujOn.com ID">
+<!ENTITY habul.options.okspamcoptooltip "Enables reporting to SpamCop">
+<!ENTITY habul.options.maxAttachLabel "Maximum Number of Spam to report at a time">
+<!ENTITY handling.label "Handling">
+<!ENTITY move.label "Move incoming messages determined to be junk mail to:">
+<!ENTITY junkFolderOn.label "&quot;Junk&quot; folder on:">
+<!ENTITY otherFolder.label "Move to Folder">
+<!ENTITY purge1.label "Automatically delete junk messages older than">
+<!ENTITY purge2.label "days from this folder">
+<!ENTITY habul. "">

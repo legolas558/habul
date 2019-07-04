@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://habul/skin/habul.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://habul/locale/habul.dtd">
+
+<overlay id="okopipiTbOverlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+	<script type="application/x-javascript" src="chrome://habul/content/habul.js"/>
+	<script type="application/x-javascript">
+		var msg_okopipiIdPrompt = "&habul.IdPrompt;";
+		var msg_okopipicIdPrompt = "&habul.cIdPrompt;";
+		var msg_okopipiNoJunk = "&habul.NoJunk;";
+		var msg_okopipiMessageBody = "&habul.MessageBody;";
+		var msg_okopipiMMPrompt = "&habul.MMPrompt;";
+	</script>
+
+	<commandset id="mailCommands">
+		<command id="cmd_okopipi_deletejunk"
+            label="&habul.reportbutton.label;"
+            tooltiptext="&habul.reportbutton.tooltiptext;"
+            oncommand="HabuL.ReportJunk();"/>
+	</commandset>
+	
+	<keyset id="mailKeys">
+		<key id="key_okopipi_deletejunk" modifiers="shift,alt,control,accel" keycode="VK_SCROLL_LOCK" command="cmd_okopipi_deletejunk"/>
+	</keyset>
+	
+	<toolbarpalette id="MailToolbarPalette">
+		<toolbarbutton class="toolbarbutton-1 okopipiButtons" id="bReportJunk"
+										command="cmd_okopipi_deletejunk"/>
+	</toolbarpalette>
+	
+</overlay>
+

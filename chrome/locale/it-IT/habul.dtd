@@ -1,0 +1,62 @@
+<!ENTITY habul.IdPrompt "Inserisci il tuo ID SpamCop.\nPuoi successivamente cambiarlo accedendo alla finestra 'Strumenti' -> 'Estensioni', selezionando 'HabuL' dalla lista e cliccando 'Opzioni'">
+<!ENTITY habul.cIdPrompt "Inserisci l'indirizzo personalizzato al quale inviare la spam.\nQuesto deve essere un indirizzo in forma completa, come ad es. nobody@example.org\n\nPuoi successivamente cambiarlo accedendo alla finestra 'Strumenti' -> 'Estensioni', selezionando 'HabuL' dalla lista e cliccando 'Opzioni'">
+<!ENTITY habul.MMPrompt "Inserisci il numero massimo di messaggi da inviare in ogni report">
+<!ENTITY habul.acmaIdPrompt "Inserisci il tuo ID ACMA. Se stai inviando come utente anonimo, inserisci 'anonymous'">
+<!ENTITY habul.knujonuserIdPrompt "Inserisci il tuo ID KnujOn.">
+<!ENTITY habul.NoJunk "Non ci sono messaggi marcati come indesiderati nella directory corrente.\n\nPuoi marcare i messaggi come indesiderati dal menu contestuale,\noppure cliccando sulla colonna 'Indesiderata' nel pannello della lista messaggi.">
+<!ENTITY habul.MessageBody "#1 messaggi marcati come email commerciali non sollecitate (SPAM) sono allegati a questo messaggio.\n\n">
+<!ENTITY habul.reportbutton.label "Report">
+<!ENTITY habul.reportbutton.tooltiptext "Invia un report con i messaggi marcati indesiderati presenti nella directory corrente">
+<!ENTITY habul.options.scidtooltip "SpamCop ID">
+<!ENTITY habul.options.quickspamcop "Abilita Quick SpamCop">
+<!ENTITY habul.options.quickspamcoptooltip "Abilita il report veloce a Spamcop">
+<!ENTITY habul.options.idLabel "Il tuo ID SpamCop:">
+<!ENTITY habul.options.cidLabel "Indirizzo personalizzato per i report:">
+<!ENTITY habul.options.okcustidtooltip "Inserisci i tuoi indirizzi personalizzati ai quali inviare report">
+<!ENTITY habul.options.ftcreportstooltip "Abilita i report FTC">
+<!ENTITY habul.options.fdareportstooltip "Report su email che riguardano possibili frodi su prodotti o dispositivi medici">
+<!ENTITY habul.options.secreportstooltip "Report su email di spam riguardo investimenti alla U.S. Securities and Exchange Commission">
+<!ENTITY habul.options.ftcreports "Abilita Report FTC">
+<!ENTITY habul.options.secreports "Abilita Report SEC">
+<!ENTITY habul.options.fdareports "Abilita Report FDA">
+<!ENTITY habul.options.knujonreports "Abilita Report KnujOn.com">
+<!ENTITY habul.options.okspamcop "Abilita Report SpamCop">
+<!ENTITY habul.options.aureports "Abilita Report Australiani">
+<!ENTITY habul.options.usareports "Abilita Report USA">
+<!ENTITY habul.options.aureportstooltip "Abilita le funzioni di report per l'Australia">
+<!ENTITY habul.options.usareportstooltip "Abilita le funzioni di report per gli USA">
+<!ENTITY habul.options.acareports "Rapport di spam per l'Australia">
+<!ENTITY habul.options.acmaidLabel "Inserisci ID ACMA:">
+<!ENTITY habul.options.acmaidtooltip "Inserisci l'id ACMA ID che ti e' stato assegnato via email o 'anonymous' per segnalare report anonimi">
+<!ENTITY habul.options.acareportstooltip "Report su spam inviata ad un Australiano da ovunque">
+<!ENTITY habul.options.actionLabel "Dopo il report sulla posta indesiderata:">
+<!ENTITY habul.options.actionLeave "Lasciala">
+<!ENTITY habul.options.actionDelete "Cancellala">
+<!ENTITY habul.options.actionTrash "Muovila nel Cestino">
+<!ENTITY habul.options.basictab.label "Impostazioni di base">
+<!ENTITY habul.options.basictab.tooltip "Opzioni di configurazione di base">
+<!ENTITY habul.options.sctab.label "Impostazioni SpamCop">
+<!ENTITY habul.options.sctab.tooltip "Opzioni di configurazione di SpamCop">
+<!ENTITY habul.options.ustab.label "Report US">
+<!ENTITY habul.options.ustab.tooltip "Opzioni di report spam per residenti US">
+<!ENTITY habul.options.uktab.label "Report UK">
+<!ENTITY habul.options.uktab.tooltip "Opzioni di report spam per residenti UK">
+<!ENTITY habul.options.autab.label "Report AU">
+<!ENTITY habul.options.autab.tooltip "Opzioni di report spam per residenti Australiani">
+<!ENTITY habul.options.catab.label "Report CA">
+<!ENTITY habul.options.catab.tooltip "Opzioni di report spam per residenti Canadesi">
+<!ENTITY habul.options.inttab.label "Interpol">
+<!ENTITY habul.options.inttab.tooltip "Opzioni di report spam per inviare all'Interpol">
+<!ENTITY habul.options.knujontab.label "Report KnujOn">
+<!ENTITY habul.options.knujonreportstooltip "Attiva report verso KnujOn.com">
+<!ENTITY habul.options.knujonuseridtooltip "Inserisci l' ID KnujOn assegnatati per i report di spam">
+<!ENTITY habul.options.knujonuseridLabel "Inserisci ID KnujOn.com">
+<!ENTITY habul.options.okspamcoptooltip "Attiva report verso SpamCop">
+<!ENTITY habul.options.maxAttachLabel "Numero massimo di report spam contemporanei">
+<!ENTITY handling.label "Gestione">
+<!ENTITY move.label "Sposta messaggi in arrivo determinati come spam in:">
+<!ENTITY junkFolderOn.label "Directory &quot;Indesiderata&quot; su:">
+<!ENTITY otherFolder.label "Muovi a directory">
+<!ENTITY purge1.label "Cancella automaticamente messaggi di posta indesiderata più vecchi di">
+<!ENTITY purge2.label "giorni da questa directory">
+<!ENTITY habul. "">
